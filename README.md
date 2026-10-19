@@ -1,1 +1,1 @@
-https://github.com/StepanGrebenshchikov/ono-tebe-nado-fd
+https://github.com/StepanGrebenshchikov/ono-tebe-nado-ad
